@@ -1,11 +1,17 @@
 # Virtual-guideline
+
 ## subtopic 1
+
 **subtopic 1 contents**
 *definition*
-image 
+image download
+ 
 ## subtopic 2
 subtopic 2 contents
 
-##subtopic 3
+## subtopic 3
 subtopics 3 contents
+
+## developer
+Teklay
  
