@@ -2,9 +2,8 @@
 
 ## Introduction 
 
-**Point cloud**
-*In this project, realsense L515 depth camera was used to scan the environment and gather the depth image. reduce the depth of the image by discarding unnecessary parts of the image to reduce the space taken by the image.*
-image download
+## Point cloud
+In this project, realsense L515 depth camera was used to scan the environment and gather the depth image. reduce the depth of the image by discarding unnecessary parts of the image to reduce the space taken by the image.
  
 ## Segmentation and down sampling 
 segmentation was done by classifying the point clouds into homogeneous regions in which points the same distance from the camera become one region. The down-sampling process was also conducted to reduce the number of points used in the computation process.
