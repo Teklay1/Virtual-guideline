@@ -19,6 +19,6 @@ image is as follows:
 
 ![main](images/Actual_image_flatwall.png)
 (Actual Image of the testing environment)
-![main](images/Vertual_line_flatwall.png
+![main](images/Vertual_line_flatwall.png) 
 (point clouds (green and blue points), generated vertual guideline (pink))
  
