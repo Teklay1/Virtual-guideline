@@ -17,5 +17,6 @@ after the above process was performed a mathematical computation was taking plac
 ## LINE construction using PCL pointcloud data
 image is as follows:
 
-![main](images/pcl_line.jpg)
+![main](images/Actual_image_flatwall.png)
+![main](images/Vertual_line_flatwall.png)
  
