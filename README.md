@@ -1,7 +1,7 @@
 # Virtual guideline for drone remote control
 
 ## Introduction 
-
+This to generate a vertual guideline for drone indoor teleoperation. 
 ## Point cloud
 In this project, realsense L515 depth camera was used to scan the environment and gather the depth image. reduce the depth of the image by discarding unnecessary parts of the image to reduce the space taken by the image.
  
